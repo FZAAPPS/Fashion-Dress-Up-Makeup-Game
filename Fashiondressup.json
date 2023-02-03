@@ -1,0 +1,14 @@
+{
+  "AdsController": {
+    "adNetwork": "admob",
+    "admobBanner": "ca-app-pub-7682816481695169/9752280632",
+    "admobInterstitial": "ca-app-pub-7682816481695169/4308382266",
+    "applovinBanner": "4b5c20ac587b7c2c",
+    "applovinInterstitial": "c73c1ec6c57db7e7",
+    "unityGameId": "5147122",
+    "testMode": true,
+    "unityBanner": "Makeup_Game_Fashion_Dress_Up_Banner",
+    "unityInterstitial": "ca-app-pub-7682816481695169/4308382266",
+    "reviewActive": true
+  }
+}
